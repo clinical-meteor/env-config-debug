@@ -14,5 +14,5 @@ Package.onUse(function (api) {
 
 Package.onTest(function (api) {
   api.use('tinytest');
-  api.use('clinical:env-config-default');
+  api.use('clinical:env-config-debug');
 });
