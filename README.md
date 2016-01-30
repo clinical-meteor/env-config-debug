@@ -3,7 +3,7 @@
 
 Drop in config that will enable DEBUG, TRACE, and TEST environment variables.
 
-![build status](https://travis-ci.org/awatson1978/env.svg?branch=master)
+![build status](https://travis-ci.org/clinical-meteor/env.svg?branch=master)
 
 ========================================
 #### Installation
