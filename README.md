@@ -1,9 +1,6 @@
-## clinical:env  
-
+## clinical:env-config-debug
 
 Drop in config that will enable DEBUG, TRACE, and TEST environment variables.
-
-![build status](https://travis-ci.org/clinical-meteor/env.svg?branch=master)
 
 ========================================
 #### Installation
